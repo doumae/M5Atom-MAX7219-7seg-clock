@@ -2,7 +2,7 @@
 
 ![M5Atom 7seg clock](images/m5atom-7seg-clock.jpg)
 
-M5Atom LiteとMAX7219を用いた4連Matrix LEDモジュールを使用した、NTPから時刻を取得する時計。
+M5Atom LiteとMAX7219を用いた8桁7seg LEDモジュールを使用した、NTPから時刻を取得する時計。
 
 ## Parts
 
